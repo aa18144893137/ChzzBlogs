@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.chzz</groupId>
-  <artifactId>ChzzBlogs2</artifactId>
+  <artifactId>ChzzBlogs</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
